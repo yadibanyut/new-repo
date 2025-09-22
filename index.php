@@ -12,5 +12,6 @@
 
   <h2>fitur dev</h2>
   dari github
+  update lagi
 </body>
 </html>
